@@ -1,0 +1,2 @@
+# RuneBot
+Personal runescape bot
